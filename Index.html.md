@@ -5,10 +5,10 @@
 <head>  
   <meta charset="UTF-8">  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-  <meta name="description" content="YOUR_NAME - IT Developer Portfolio showcasing projects and skills in web development.">  
-  <meta name="keywords" content="YOUR_NAME, IT developer, portfolio, web development, YOUR_CITY">  
-  <meta name="author" content="YOUR_NAME">  
-  <title>YOUR_NAME | IT Portfolio</title>  
+  <meta name="description" content="Alexandra Thompson - IT Developer Portfolio showcasing projects and skills in web development.">  
+  <meta name="keywords" content="Alexandra Thompson, IT developer, portfolio, web development, YOUR_CITY">  
+  <meta name="author" content="Alexandra Thompson">  
+  <title>Alexandra Thompson | IT Portfolio</title>  
   <link rel="stylesheet" href="styles.css">  
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">  
   <link rel="icon" href="favicon.ico" type="image/x-icon">  
